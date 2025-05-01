@@ -14,12 +14,12 @@ A web developer based in China.
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=zmkRepos&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=zmkRepos&show_icons=true&theme=dark&locale=cn"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=zmkRepos&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=zmkRepos&show_icons=true&locale=cn"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=zmkRepos&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zmkRepos&show_icons=true&locale=cn"/>
 </picture>
